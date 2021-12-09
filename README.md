@@ -2,6 +2,11 @@
 
 Serial Code: https://rosettacode.org/wiki/Mandelbrot_set#PPM_non_interactive
 
+**Notes**:
+-The .c files are the code
+-The .txt are the outputs of the running code displaying the time given by "timer.h"
+
+
 This Project was a Presentation for my CISC372 Parallel Programming Class:
 The goal of this project was to measure the parallelization runtimes of 4 different cases using the OpenACC protocol on a GPU.
 
